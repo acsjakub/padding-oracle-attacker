@@ -24,3 +24,7 @@ For more examples, see `launcher.py`.
 
 
 ### repository structure
+`scripts` directory contains all the python scripts
+`attacker_module.py` contains logic for padding oracle attack
+`launcher.py` demonstrates usage and tests correctness of `attacker_module.py`
+Oracles are used to demonstrate usage
